@@ -1,0 +1,10 @@
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\bin\Debug\netstandard2.0\MrTshirtAppMVVM.deps.json
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\bin\Debug\netstandard2.0\MrTshirtAppMVVM.dll
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\MrTshirtAppMVVM.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\MrTshirtAppMVVM.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\MrTshirtAppMVVM.AssemblyInfo.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\Views\OrderListViewPage.xaml.g.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\Views\SeeMore.xaml.g.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM\obj\Debug\netstandard2.0\Views\TshirtPage.xaml.g.cs

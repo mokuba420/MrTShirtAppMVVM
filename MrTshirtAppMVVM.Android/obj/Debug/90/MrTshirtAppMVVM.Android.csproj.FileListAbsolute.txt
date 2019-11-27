@@ -1,0 +1,4 @@
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM.Android\obj\Debug\90\build.props
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM.Android\obj\Debug\90\adb.props
+D:\GITHUBUPDATAS\MrTShirtAppMVVM\MrTshirtAppMVVM\MrTshirtAppMVVM.Android\obj\Debug\90\MrTshirtAppMVVM.Android.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="MrTshirtAppMVVM.Views.TshirtPage">
+                
+
+
+
+
+
+    <StackLayout 
+            Margin="20" VerticalOptions="StartAndExpand">
+        <Image
+                Source="signup.jpg"
+                
+                ></Image>
+        <Label Text="Name" />
+        <Entry Text="{Binding Name}" />
+        <Label Text="Size" />
+        <Entry Text="{Binding Size}" />
+        <Label Text="ShippingAddress" />
+        <Entry Text="{Binding ShippingAddress}" />
+        <Label Text="Done" />
+        <Switch IsToggled="{Binding Done}" />
+
+
+
+    </StackLayout>
+</ContentPage>

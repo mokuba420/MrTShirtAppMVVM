@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MrTshirtAppMVVM.Views.MainPage"
+             Title="{Binding Title}">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Label
+            Text="WELCOME To MrTShirt"
+            FontSize="30"
+            TextColor="Yellow"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            ></Label>
+        <Image
+            Source="product.jpg"
+            HeightRequest="200"
+        />
+        <Label
+            Text="Customized according to your needs, Will not lose shape, Anti-pilling, Eco-friendly, Anti-wrinkle.for only R250"
+            FontSize="20"
+            TextColor="Yellow"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            ></Label>
+
+
+
+        <Button Text="next page" Command="{Binding NextpageCommand}" VerticalOptions="EndAndExpand" />
+
+
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>
